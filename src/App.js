@@ -31,11 +31,11 @@ class App extends React.Component {
             <Column field="id" header="ID"></Column>
             <Column field="nombre" header="Nombre"></Column>
             <Column field="apellido" header="Apellido"></Column>
-            <Column field="direccion" header="Direccion"></Column>
+            <Column field="direccion" header="Dirección"></Column>
             <Column field="telefono" header="Telefono"></Column>
           </DataTable>
         </Panel>
-      </div>
+      </div> 
     );
   }
 
